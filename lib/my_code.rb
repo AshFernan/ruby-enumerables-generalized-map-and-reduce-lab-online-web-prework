@@ -1,5 +1,5 @@
 # Your Code Here
-   def map(s)
+   def map(sp)
   new = []
   i = 0
   while i < s.length
