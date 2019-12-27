@@ -1,2 +1,3 @@
 # Your Code Here
-map_to_negativize
+ def map_to_negativize
+   
